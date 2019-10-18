@@ -1,7 +1,5 @@
 #
-## Troy Adair
-
-3120 Mohawk Trl, Tobyhanna, PA 18466 | 570-807-1408 | [tadair@fin101.org](mailto:tadair@fin101.org)
+## Troy A. Adair, Jr., Ph.D.
 
 ## PROFESSIONAL SUMMARY
 
