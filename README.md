@@ -188,14 +188,14 @@ Responsible for developing and teaching the wing&#39;s recurring lesson plans.
 
 ## EDUCATION
 
-##Indiana University, Bloomington, IN
+**Indiana University, Bloomington, IN**
 
 Ph.D. (Business)
 
-##University of North Dakota, Grand Forks, ND
+**University of North Dakota, Grand Forks, ND**
 
 M.B.A.
 
-##University of Alabama at Birmingham, Birmingham, AL
+**University of Alabama at Birmingham, Birmingham, AL**
 
 B.S. (Computer Science)
