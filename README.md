@@ -34,9 +34,9 @@ Articulate, seasoned college professor and administrator with extensive experien
 
 **August 2018 - PRESENT**
 
-**Professor of Practice, Department of Decision and Technology Analytics**
-,Lehigh University
-,Bethlehem, PA
+**Professor of Practice, Department of Decision and Technology Analytics**,
+Lehigh University,
+Bethlehem, PA
 
 Responsible for teaching courses in business analytics, introduction to information systems, enterprise applications (SAP), information systems analysis and design, data analytics, financial derivatives, and risk management.
 
