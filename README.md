@@ -3,13 +3,12 @@
 
 3120 Mohawk Trl, Tobyhanna, PA 18466 | 570-807-1408 | [tadair@fin101.org](mailto:tadair@fin101.org)
 
-## Professional summary
+## Professional Summary
 
 Articulate, seasoned college professor and administrator with extensive experience at both the undergraduate and graduate levels as well as deep practical experience in corporate finance, data science, business intelligence, and business analytics as a consultant for the banking, insurance, and publishing industries. Currently responsible for designing and teaching courses in data science, FinTech, and information systems at Lehigh University.
 
-## teaching experience
+## Teaching Experience
 
-|
 - Fundamentals of Business Data Visualization and Analytics
 - Business Analytics
 - e-Business Enterprise Applications
@@ -17,14 +16,12 @@ Articulate, seasoned college professor and administrator with extensive experien
 - Managerial Accounting
 - Introduction to Business
 - Mathematics and Statistics for Business
- |
 - Quantitative Analysis for Business Decision Making
 - Information Systems Management for Managers
 - Introduction to Corporate Finance
 - Advance Corporate Finance
 - International Finance
 - Financial Institutions
- |
 - Risk Management
 - Leadership for Managers
 - Introduction to Information Systems
@@ -32,89 +29,68 @@ Articulate, seasoned college professor and administrator with extensive experien
 - Corporate Strategy
 - Valuation
 - Financial Derivatives
- |
-| --- | --- | --- |
 
-## WORK history
+## Work History
 
 **August 2018 - PRESENT**
 
-**Professor of Practice, Department of Decision and Technology Analytics**** | **** Lehigh University **** | **** Bethlehem, PA**
+**Professor of Practice, Department of Decision and Technology Analytics**
+Lehigh University
+Bethlehem, PA
 
 Responsible for teaching courses in business analytics, introduction to information systems, enterprise applications (SAP), information systems analysis and design, data analytics, financial derivatives, and risk management.
 
 **June 2014 – June 2018**
 
-**Senior Director, Research Computing Services**** | **** Harvard Business School **** | **** Boston, MA**
+**Senior Director, Research Computing Services**
+Harvard Business School
+Boston, MA
 
 Responsible for overseeing research computing structure and services, including data science and statistical consulting services, information security compliance, software and hardware procurement and management, and engagement and supervision of externally contracted data analysts, database managers, and project programmers. Created and led a series of research training workshops, including:
 
-|
 - Version Control with Git
- |
 - Data Management and Security
- |
 - Introduction to Python
- |
-| --- | --- | --- |
-|
 - GPU Coding with Python
- |
 - Using APIs with Python
- |
 - Web Scraping with Python
- |
-|
 - Basic R Programming for Data Analysis
- |
 - Introduction to R
- |
 - GPU Coding with R
- |
-|
 - Introduction to R Graphics &amp; ggplot2
- |
 - R Data Management
- |
 - Regression Models in R
- |
-|
 - Base SAS
- |
 - SAS Enterprise Guide
- |
 - SAS Enterprise Miner
- |
-|
 - Structured Data, Databases, and SQL
- |
 - SQL in SAS
- |
 - Introduction to Stata
- |
-|
 - Regression and Graphing in Stata
- |
 - Introduction to Tableau
- |
 - Introduction to the Unix Shell
- |
 
-**may 2013 – june 2014**
+**May 2013 – June 2014**
 
-**Senior Business Intelligence Consultant**** | **** USAA Federal Savings Bank **** | **** San Antonio, TX**
+**Senior Business Intelligence Consultant**
+USAA Federal Savings Bank
+San Antonio, TX
 
 Responsible for enhancing marketing efforts including: implementing near- and long-term forecasting procedures for 26 different insurance product lines; developing cluster analyses procedures to identify demographic clusters for each insurance line; and project management for development, validation, and implementation of logistic-regression-based Acquisition Scoring Models to drive targeted marketing campaigns.
 
-**september 2010 – may 2013**
+**September 2010 – May 2013**
 
-**Associate Provost/Associate Vice-President for Institutional Effectiveness**** | **** Berkeley College **** | **** New York, NY**
+**Associate Provost/Associate Vice-President for Institutional Effectiveness**
+Berkeley College
+New York, NY
 
 (Originally hired as founding Dean of the Graduate School, but school was unable to get permission from NY State Department of Education to have graduate programs.) Responsible for leading Admissions, Advisement, Institutional Research, Registrar, and Strategic Planning departments, evaluating new and existing programs and campuses, and managing articulation agreements and partnerships with New York and New Jersey colleges and high schools.
 
-**JuLY 2008 – SEPTEMbeR 2010**
+**JuLY 2008 – September 2010**
 
-**Director, Educational Initiatives**** | **** Wilkes University **** | **** Wilkes-Barre, PA**
+**Director, Educational Initiatives**
+Wilkes University
+Wilkes-Barre, PA
 
 Responsible for development, implementation, and marketing of new programs; planning and implementation for new satellite campus; and strategic analysis, long-range planning, and outcomes assessment for existing programs.
 
@@ -133,9 +109,11 @@ Responsible for development, implementation, and marketing of new programs; plan
   - On-site training of Punjabi University faculty and staff on tools, software, and methodologies to facilitate synchronous teaching and conferencing.
   - Coordinated staffing, agenda, and delivery of information sessions in Patiala for prospective students.
 
-**JuLY 2001 – DECEMBER 2007**
+**JuLY 2001 – December 2007**
 
-**Finance Faculty/MBA Field Projects Advisor**** | **** University of Michigan **** | **** Ann Arbor, MI**
+**Finance Faculty/MBA Field Projects Advisor**
+University of Michigan
+Ann Arbor, MI
 
 Responsible for teaching courses in corporate finance, financial institutions, and risk management, and for serving as managing faculty advisor for MBA field consulting projects for national and international industry partners. Clients and projects directed included:
 
@@ -150,52 +128,61 @@ Responsible for teaching courses in corporate finance, financial institutions, a
 - The MEDSTAT Group (evaluating e-learning training effectiveness)
 - Mercury Marine (project strategy for electric outboard motors)
 
+**July 1999 – June 2001**
 
-
-**July 1999 – june 2001**
-
-**Assistant Professor**** | **** Alma College **** | **** Alma, MI**
+**Assistant Professor**
+Alma College
+Alma, MI
 
 Responsible for teaching courses in finance, strategy, and accounting.
 
 Developed and taught international course in Amsterdam on Auction Market Microstructure, served as faculty representative on Board of Trustees Investments Committee and as division representative on the Academic Standards Committee, and performed feasibility analysis for implementation of an all-laptop campus.
 
-**MARCH 1997 – DECEMBER 1998**
+**March 1997 – December 1998**
 
-**Lead Training Consultant**** | **** Chase Manhattan Bank **** | **** New York, NY**
+**Lead Training Consultant**
+Chase Manhattan Bank
+New York, NY
 
 Responsible for all phases of the GlobalNet 98 Credit Risk Management System training program, including project management, instructional design, and selection and supervision of instructors at multiple international locations. Assisted in the redesign and outfitting of the primary training room for the FX and Derivatives trading floors, and provided support to the FX and Derivatives trading floors during implementation of Reuters&#39; Kobra and Advanced Trader Workstation market data applications.
 
-**MARCH 1997 – DECEMbeR 1997**
+**March 1997 – December 1997**
 
-**Lead Training Consultant**** | **** Hongkong and Shanghai Banking Corporation **** | **** New York, NY**
+**Lead Training Consultant**
+Hongkong and Shanghai Banking Corporation
+New York, NY
 
 Responsible for the Windows NT 4.0 and Fidessa Trading Workbench training programs, including project management, instructional design, and selection and supervision of instructors.
 
-**JuLY 1996 – JUNE 1999**
+**July 1996 – June 1999**
 
-**Assistant Professor**** | **** Hofstra University **** | **** Hempstead, NY**
+**Assistant Professor**
+Hofstra University
+Hempstead, NY
 
 Served as chairperson of the Business Technology Committee, as faculty senator-at-large on the Senate Subcommittee on Academic Computing, and as a member of the Dean&#39;s Scholarship Advisory Committee. Handled negotiations with McGraw-Hill senior staff to acquire $2.3 million grant providing five-year access to McGraw-Hill market data applications, served as faculty liaison between Hofstra&#39;s Business Development Center and local community and business leaders, and responsible for teaching courses in Security Analysis, Fundamentals of Corporate Finance, and Corporate Financial Policy.
 
-**JuLY 1988 – JUNE 1989**
+**July 1988 – June 1989**
 
-**Chief, Quality Control/Data Analysis**** | **** 91st Strategic Missile Wing, USAF **** | **** Minot AFB, ND**
+**Chief, Quality Control/Data Analysis**
+91st Strategic Missile Wing, USAF
+Minot AFB, ND
 
 Responsible for supervising the quality control and data analysis programs for 150 Minuteman III ICBMs, 15 Launch Control Centers, and over 1500 members of the 91st Strategic Missile Wing.
 
-**JuLY 1986 – JUNE 1988**
+**July 1986 – June 1988**
 
-**Alternate Command Post Commander**** | **** 740**
-
-# th
- **Strategic Missile Squadron, USAF**  **|**  **Minot AFB, ND**
+**Alternate Command Post Commander**
+740th Strategic Missile Squadron, USAF
+Minot AFB, ND
 
 Responsible for assuming command of 15 Launch Control Facilities, 150 Minuteman III Intercontinental Ballistic Missiles, 34 officers, and 200 enlisted personnel in the event of a nuclear attack.
 
-**November 1984 – JUNE 1986**
+**November 1984 – June 1986**
 
-**Instructor/Deputy Missile Combat Crew Commander**** | 9 ****1st Strategic Missile Wing DOTI, USAF**  **|**  **Minot AFB, ND**
+**Instructor/Deputy Missile Combat Crew Commander**
+91st Strategic Missile Wing DOTI, USAF
+Minot AFB, ND
 
 Responsible for developing and teaching the wing&#39;s recurring lesson plans.
 
@@ -214,33 +201,3 @@ M.B.A.
 University of Alabama at Birmingham, Birmingham, AL
 
 B.S. (Computer Science)
-
-## Selected RECENT and forthcoming PUBLICATIONS
-
-### Investments,1
-# st
- Edition, 2022 (forthcoming). Cengage Learning, Inc., Mason, Ohio.
-
-### Business Analytics, 1
-# st
- Edition, 2020 (forthcoming). John Wiley &amp; Sons, Hoboken, New Jersey.
-
-### Finance: Applications and Theory, 5th Edition, with Marcia Cornett and John Nofsinger, 2019. McGraw-Hill/Irwin, Burr Ridge, Illinois.
-
-_M: Finance_, 4th Edition, with Marcia Cornett and John Nofsinger, 2018. McGraw-Hill/Irwin, Burr Ridge, Illinois.
-
-_Corporate Finance Demystified_, 2nd Edition, 2010. McGraw-Hill/Irwin, Burr Ridge, Illinois.
-
-## working papers
-
- &quot;2 Analysts Walk into a Bar…&quot;, theoretical paper modeling how differences in stock analyst queue composition can drive significant differences in the timing of analyst EPS forecast revisions.
-
- &quot;Using Tweets to Front-run EPS Announcements&quot;, empirical paper analyzing predicative capability of changes in average customer sentiment analysis of Twitter comments on Fortune 500 firms&#39; EPS.
-
-## MEMBERSHIPS
-
-American Finance Association
-
-American Statistical Association
-
-Financial Management Association
