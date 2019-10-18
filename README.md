@@ -42,8 +42,8 @@ Responsible for teaching courses in business analytics, introduction to informat
 
 **June 2014 – June 2018**
 
-**Senior Director, Research Computing Services**
-Harvard Business School
+**Senior Director, Research Computing Services**,
+Harvard Business School,
 Boston, MA
 
 Responsible for overseeing research computing structure and services, including data science and statistical consulting services, information security compliance, software and hardware procurement and management, and engagement and supervision of externally contracted data analysts, database managers, and project programmers. Created and led a series of research training workshops, including:
@@ -72,24 +72,24 @@ Responsible for overseeing research computing structure and services, including 
 
 **May 2013 – June 2014**
 
-**Senior Business Intelligence Consultant**
-USAA Federal Savings Bank
+**Senior Business Intelligence Consultant**,
+USAA Federal Savings Bank,
 San Antonio, TX
 
 Responsible for enhancing marketing efforts including: implementing near- and long-term forecasting procedures for 26 different insurance product lines; developing cluster analyses procedures to identify demographic clusters for each insurance line; and project management for development, validation, and implementation of logistic-regression-based Acquisition Scoring Models to drive targeted marketing campaigns.
 
 **September 2010 – May 2013**
 
-**Associate Provost/Associate Vice-President for Institutional Effectiveness**
-Berkeley College
+**Associate Provost/Associate Vice-President for Institutional Effectiveness**,
+Berkeley College,
 New York, NY
 
 (Originally hired as founding Dean of the Graduate School, but school was unable to get permission from NY State Department of Education to have graduate programs.) Responsible for leading Admissions, Advisement, Institutional Research, Registrar, and Strategic Planning departments, evaluating new and existing programs and campuses, and managing articulation agreements and partnerships with New York and New Jersey colleges and high schools.
 
 **JuLY 2008 – September 2010**
 
-**Director, Educational Initiatives**
-Wilkes University
+**Director, Educational Initiatives**,
+Wilkes University,
 Wilkes-Barre, PA
 
 Responsible for development, implementation, and marketing of new programs; planning and implementation for new satellite campus; and strategic analysis, long-range planning, and outcomes assessment for existing programs.
@@ -111,8 +111,8 @@ Responsible for development, implementation, and marketing of new programs; plan
 
 **JuLY 2001 – December 2007**
 
-**Finance Faculty/MBA Field Projects Advisor**
-University of Michigan
+**Finance Faculty/MBA Field Projects Advisor**,
+University of Michigan,
 Ann Arbor, MI
 
 Responsible for teaching courses in corporate finance, financial institutions, and risk management, and for serving as managing faculty advisor for MBA field consulting projects for national and international industry partners. Clients and projects directed included:
@@ -130,8 +130,8 @@ Responsible for teaching courses in corporate finance, financial institutions, a
 
 **July 1999 – June 2001**
 
-**Assistant Professor**
-Alma College
+**Assistant Professor**,
+Alma College,
 Alma, MI
 
 Responsible for teaching courses in finance, strategy, and accounting.
@@ -140,48 +140,48 @@ Developed and taught international course in Amsterdam on Auction Market Microst
 
 **March 1997 – December 1998**
 
-**Lead Training Consultant**
-Chase Manhattan Bank
+**Lead Training Consultant**,
+Chase Manhattan Bank,
 New York, NY
 
 Responsible for all phases of the GlobalNet 98 Credit Risk Management System training program, including project management, instructional design, and selection and supervision of instructors at multiple international locations. Assisted in the redesign and outfitting of the primary training room for the FX and Derivatives trading floors, and provided support to the FX and Derivatives trading floors during implementation of Reuters&#39; Kobra and Advanced Trader Workstation market data applications.
 
 **March 1997 – December 1997**
 
-**Lead Training Consultant**
-Hongkong and Shanghai Banking Corporation
+**Lead Training Consultant**,
+Hongkong and Shanghai Banking Corporation,
 New York, NY
 
 Responsible for the Windows NT 4.0 and Fidessa Trading Workbench training programs, including project management, instructional design, and selection and supervision of instructors.
 
 **July 1996 – June 1999**
 
-**Assistant Professor**
-Hofstra University
+**Assistant Professor**,
+Hofstra University,
 Hempstead, NY
 
 Served as chairperson of the Business Technology Committee, as faculty senator-at-large on the Senate Subcommittee on Academic Computing, and as a member of the Dean&#39;s Scholarship Advisory Committee. Handled negotiations with McGraw-Hill senior staff to acquire $2.3 million grant providing five-year access to McGraw-Hill market data applications, served as faculty liaison between Hofstra&#39;s Business Development Center and local community and business leaders, and responsible for teaching courses in Security Analysis, Fundamentals of Corporate Finance, and Corporate Financial Policy.
 
 **July 1988 – June 1989**
 
-**Chief, Quality Control/Data Analysis**
-91st Strategic Missile Wing, USAF
+**Chief, Quality Control/Data Analysis**,
+91st Strategic Missile Wing, USAF,
 Minot AFB, ND
 
 Responsible for supervising the quality control and data analysis programs for 150 Minuteman III ICBMs, 15 Launch Control Centers, and over 1500 members of the 91st Strategic Missile Wing.
 
 **July 1986 – June 1988**
 
-**Alternate Command Post Commander**
-740th Strategic Missile Squadron, USAF
+**Alternate Command Post Commander**,
+740th Strategic Missile Squadron, USAF,
 Minot AFB, ND
 
 Responsible for assuming command of 15 Launch Control Facilities, 150 Minuteman III Intercontinental Ballistic Missiles, 34 officers, and 200 enlisted personnel in the event of a nuclear attack.
 
 **November 1984 – June 1986**
 
-**Instructor/Deputy Missile Combat Crew Commander**
-91st Strategic Missile Wing DOTI, USAF
+**Instructor/Deputy Missile Combat Crew Commander**,
+91st Strategic Missile Wing DOTI, USAF,
 Minot AFB, ND
 
 Responsible for developing and teaching the wing&#39;s recurring lesson plans.
@@ -190,14 +190,14 @@ Responsible for developing and teaching the wing&#39;s recurring lesson plans.
 
 ## EDUCATION
 
-Indiana University, Bloomington, IN
+##Indiana University, Bloomington, IN
 
 Ph.D. (Business)
 
-University of North Dakota, Grand Forks, ND
+##University of North Dakota, Grand Forks, ND
 
 M.B.A.
 
-University of Alabama at Birmingham, Birmingham, AL
+##University of Alabama at Birmingham, Birmingham, AL
 
 B.S. (Computer Science)
