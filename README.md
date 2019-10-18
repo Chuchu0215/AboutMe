@@ -3,11 +3,11 @@
 
 3120 Mohawk Trl, Tobyhanna, PA 18466 | 570-807-1408 | [tadair@fin101.org](mailto:tadair@fin101.org)
 
-## Professional Summary
+## PROFESSIONAL SUMMARY
 
 Articulate, seasoned college professor and administrator with extensive experience at both the undergraduate and graduate levels as well as deep practical experience in corporate finance, data science, business intelligence, and business analytics as a consultant for the banking, insurance, and publishing industries. Currently responsible for designing and teaching courses in data science, FinTech, and information systems at Lehigh University.
 
-## Teaching Experience
+## TEACHING EXPERIENCE
 
 - Fundamentals of Business Data Visualization and Analytics
 - Business Analytics
@@ -30,7 +30,7 @@ Articulate, seasoned college professor and administrator with extensive experien
 - Valuation
 - Financial Derivatives
 
-## Work History
+## WORK HISTORY
 
 **August 2018 - PRESENT**
 
@@ -86,7 +86,7 @@ New York, NY
 
 (Originally hired as founding Dean of the Graduate School, but school was unable to get permission from NY State Department of Education to have graduate programs.) Responsible for leading Admissions, Advisement, Institutional Research, Registrar, and Strategic Planning departments, evaluating new and existing programs and campuses, and managing articulation agreements and partnerships with New York and New Jersey colleges and high schools.
 
-**JuLY 2008 – September 2010**
+**JulY 2008 – September 2010**
 
 **Director, Educational Initiatives**,
 Wilkes University,
@@ -109,7 +109,7 @@ Responsible for development, implementation, and marketing of new programs; plan
   - On-site training of Punjabi University faculty and staff on tools, software, and methodologies to facilitate synchronous teaching and conferencing.
   - Coordinated staffing, agenda, and delivery of information sessions in Patiala for prospective students.
 
-**JuLY 2001 – December 2007**
+**JulY 2001 – December 2007**
 
 **Finance Faculty/MBA Field Projects Advisor**,
 University of Michigan,
